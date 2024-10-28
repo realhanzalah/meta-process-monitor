@@ -11,7 +11,7 @@ A lightweight system monitoring tool inspired by Linux process monitoring, built
 ```bash
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/meta-process-monitor
+git clone https://github.com/realhanzalah/meta-process-monitor
 
 # Install required package
 pip install psutil
